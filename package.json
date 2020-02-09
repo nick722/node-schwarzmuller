@@ -17,9 +17,5 @@
   "bugs": {
     "url": "https://github.com/nick722/node-schwarzmuller/issues"
   },
-  "homepage": "https://github.com/nick722/node-schwarzmuller#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  }
+  "homepage": "https://github.com/nick722/node-schwarzmuller#readme"
 }
