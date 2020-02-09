@@ -1,0 +1,21 @@
+{
+  "name": "schwarmuller-node",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick722/node-schwarzmuller.git"
+  },
+  "author": "Nikolai Yakuschenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick722/node-schwarzmuller/issues"
+  },
+  "homepage": "https://github.com/nick722/node-schwarzmuller#readme"
+}
